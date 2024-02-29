@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @0MorbiDAngeL0
-- 🕹 I’m interested in Game,programing
-- 🎮 I’m currently learning C++
+- 👋 Hi, I’m Melih Gökay
+- 🕹 I’m interested in programing
+- 🎮 I’m currently learning C#,node.js,express.js
