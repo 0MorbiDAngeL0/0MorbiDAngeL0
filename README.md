@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Melih Gökay
 - 🕹 I’m interested in programing
-- 🎮 I’m currently learning C#,node.js,express.js
+- 🎮 I’m currently learning C#,node.js,express.js,python and A.I
